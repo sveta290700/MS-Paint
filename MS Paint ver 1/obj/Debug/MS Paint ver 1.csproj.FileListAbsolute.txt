@@ -1,0 +1,10 @@
+C:\Users\777br\source\repos\MS Paint ver 1\MS Paint ver 1\bin\Debug\MS Paint ver 1.exe.config
+C:\Users\777br\source\repos\MS Paint ver 1\MS Paint ver 1\bin\Debug\MS Paint ver 1.exe
+C:\Users\777br\source\repos\MS Paint ver 1\MS Paint ver 1\bin\Debug\MS Paint ver 1.pdb
+C:\Users\777br\source\repos\MS Paint ver 1\MS Paint ver 1\obj\Debug\MS Paint ver 1.csprojAssemblyReference.cache
+C:\Users\777br\source\repos\MS Paint ver 1\MS Paint ver 1\obj\Debug\MS_Paint_ver_1.Properties.Resources.resources
+C:\Users\777br\source\repos\MS Paint ver 1\MS Paint ver 1\obj\Debug\MS Paint ver 1.csproj.GenerateResource.cache
+C:\Users\777br\source\repos\MS Paint ver 1\MS Paint ver 1\obj\Debug\MS Paint ver 1.exe
+C:\Users\777br\source\repos\MS Paint ver 1\MS Paint ver 1\obj\Debug\MS Paint ver 1.pdb
+C:\Users\777br\source\repos\MS Paint ver 1\MS Paint ver 1\obj\Debug\MS_Paint_ver_1.Form1.resources
+C:\Users\777br\source\repos\MS Paint ver 1\MS Paint ver 1\obj\Debug\MS Paint ver 1.csproj.CoreCompileInputs.cache
